@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on building Web Applications
-- 🌱 I’m currently learning Docker, AWS
+- 🌱 I’m currently learning Azure
 - 👯 I’m looking to collaborate on DevOps
 - 🤔 I’m looking for help with System Design and DevOps
 - 💬 Ask me about Data Structures and Algorithms, SQL, Python, .NET
